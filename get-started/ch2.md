@@ -323,7 +323,7 @@ var awesomeFunction = function(coolThings) {
 
 This function is an expression that is assigned to the variable `awesomeFunction`. Different from the function declaration form, a function expression is not associated with its identifier until that statement during runtime.
 
-It's extremely important to note that in JS, functions are values that can be assigned (as shown in this snippet) and passed around. In fact, JS functions are a special type of the object value type. Not all languages treat functions as values, but it's essential languages that support the functional programming pattern, as JS does.
+It's extremely important to note that in JS, functions are values that can be assigned (as shown in this snippet) and passed around. In fact, JS functions are a special type of the object value type. Not all languages treat functions as values, but it's essential for languages that support the functional programming pattern, as JS does.
 
 JS functions can receive parameter input:
 
